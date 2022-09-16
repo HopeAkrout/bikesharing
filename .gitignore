@@ -1,3 +1,8 @@
+# additional folders and files
+/.ipynb_checkpoints
+bike_df.csv
+201908-citibike-tripdata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
